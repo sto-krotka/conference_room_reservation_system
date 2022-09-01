@@ -1,5 +1,5 @@
 # conference_room_reservation_system
-CRUD Web application created in Django Framework. 
+CRUD Web application created in Django Framework during one of workshops in CodersLab IT Academy
 Allows making reservations of conference rooms.
 The user can:
 -see the detailed view of each room,
